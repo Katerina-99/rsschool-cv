@@ -81,5 +81,7 @@ _October 2021 — May 2022_
 ## Languages
 
 **Russian** — Native
+
 **English** — Intermediate (B1)
+
 **Portuguese** — Basic (A2)
