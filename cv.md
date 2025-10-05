@@ -63,3 +63,17 @@ _October 2021 — May 2022_
 - Implemented authentication functionality, forms, and data validation using Formik
 - Integrated REST APIs and optimized performance
 - Collaborated with backend developers and designers
+
+## Education
+
+- **ItGirlSchool**  
+  _Online course: Frontend Development_  
+  _2023 - 2025_
+
+- **GLO Academy**  
+  _OOnline course: Web Development_  
+  _2020_
+
+- **Rostov state university of economics(RSUE)**  
+  _Faculty of Economics_  
+  _2006 — 2010_
