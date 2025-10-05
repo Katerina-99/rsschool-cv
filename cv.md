@@ -77,3 +77,9 @@ _October 2021 — May 2022_
 - **Rostov state university of economics(RSUE)**  
   _Faculty of Economics_  
   _2006 — 2010_
+
+## Languages
+
+**Russian** — Native
+**English** — Intermediate (B1)
+**Portuguese** — Basic (A2)
